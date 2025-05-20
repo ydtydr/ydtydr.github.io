@@ -243,3 +243,17 @@
     }
   }
 }
+
+.list__item,
+.grid__item {
+  margin-bottom: 0.25rem !important; // or whatever small value you want
+}
+
+.archive__item {
+  margin-bottom: 0.5rem !important;
+}
+
+.archive__item-title {
+  margin-bottom: 0.25rem !important;
+  margin-top: 0.25rem !important;
+}
