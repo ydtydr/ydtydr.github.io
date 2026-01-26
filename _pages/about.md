@@ -8,11 +8,15 @@ redirect_from:
 ---
 Welcome to my homepage!
 
-I am an Applied Scientist at AWS Neuron Science team in the [Annapurna Labs](https://amazon.jobs/content/en/teams/amazon-web-services/annapurna-labs), suppprting AWS Trainium/Inferentia chips. I received my Ph.D. degree in Computer Science from Cornell University, advised by [Chris De Sa](https://www.cs.cornell.edu/~cdesa/). I'm also grateful to work with [Vitaly Shmatikov](https://www.cs.cornell.edu/~shmat/) on machine learning privacy. Prior to Cornell, I obtained bachelor degree in Mathematics (ZhiYuan Honors) from Shanghai Jiao Tong University, where I am fourtunate to be advised by [John E. Hopcroft](https://www.cs.cornell.edu/jeh/) and [Huan Long](https://basics.sjtu.edu.cn/~longhuan/).
+I am a Scientist at AWS Neuron Science team in the [Annapurna Labs](https://amazon.jobs/content/en/teams/amazon-web-services/annapurna-labs), working on the design and support of large-scale pretraining algorithms for AWS Trainium. I received my Ph.D. degree in Computer Science from Cornell University, advised by [Chris De Sa](https://www.cs.cornell.edu/~cdesa/). I'm also grateful to work with [Vitaly Shmatikov](https://www.cs.cornell.edu/~shmat/) on machine learning privacy. Prior to Cornell, I obtained bachelor degree in Mathematics (ZhiYuan Honors) from Shanghai Jiao Tong University, where I am fourtunate to be advised by [John E. Hopcroft](https://www.cs.cornell.edu/jeh/) and [Huan Long](https://basics.sjtu.edu.cn/~longhuan/).
 
-I'm interested in eﬃcient machine learning system to address the growing computational demands. My focus lies in i) designing data-aware representations, ii) optimizing computational eﬃciency, and iii) advancing system performance to enable scalable learning. Topics of interest include low-precision training, inference, and learning with non-Euclidean representations. My research interests extend to private and robust machine learning algorithms.
+I work on improving the efficiency of machine learning systems to address growing computational demands. My research focuses on:
 
-Recently, I'm particularly passionate about algorithm–hardware co-design — understanding the limitations of hardware & software, leveraging their features, and designing supports for efficient and reliable training and inference. My goal is to simplify the development and deployment of foundation models on such specialized hardware.
+- **Optimizing training and inference efficiency** through low-precision methods (e.g., FP8, FP4) and post-training quantization
+- **Robust and scalable learning**, including training instabilities and predictive scaling behaviors in LLMs
+- **Designing data-aware representations** that leverage the inherent geometry of data
+
+Recently, I have been particularly passionate about algorithm–hardware co-design—understanding the limitations and capabilities of both hardware and software, leveraging their strengths, and developing methods that enable efficient and reliable training and inference. My goal is to simplify the development and deployment of foundation models on hardware. My research interests also extend to private and robust machine learning algorithms. 
 
 <!-- [CV](https://ydtydr.github.io/files/tao_resume.pdf) -->
 
