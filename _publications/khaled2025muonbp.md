@@ -1,11 +1,11 @@
 ---
 title: 'MuonBP: Faster Muon via Block-Periodic Orthogonalization'
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/khaled2025muonbp
 excerpt: #''
 date: 2025-10-19
-venue: 'arXiv preprint arXiv:2510.16981'
+venue: '[Accepted to] 14th International Conference on Learning Representations (ICLR 2026)'
 link: 'https://arxiv.org/abs/2510.16981'
 paperurl: 'https://arxiv.org/abs/2510.16981'
 citation: 'Ahmed Khaled, Kaan Ozkara, <strong>Tao Yu</strong>, Mingyi Hong, Youngsuk Park.'

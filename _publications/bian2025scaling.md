@@ -1,11 +1,11 @@
 ---
 title: 'Scaling Laws Meet Model Architecture: Toward Inference-Efficient LLMs'
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/bian2025scaling
 excerpt: #''
 date: 2025-10-21
-venue: 'arXiv preprint arXiv:2510.18245'
+venue: '[Accepted to] 14th International Conference on Learning Representations (ICLR 2026)'
 link: 'https://arxiv.org/abs/2510.18245'
 paperurl: 'https://arxiv.org/abs/2510.18245'
 citation: 'Song Bian, <strong>Tao Yu</strong>, Shivaram Venkataraman, Youngsuk Park.'
