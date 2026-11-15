@@ -25,9 +25,9 @@ author:
   avatar           : "about.jpg"
   name             : "Tao Yu"
   pronouns         : # example: "she/her"  
-  bio              : "Machine Learning Scientist @ AWS AI"
-  location         : "Santa Clara"
-  employer         : "AWS Neuron Science"
+  bio              : "Machine Learning Researcher @ pretrain"
+  location         : "Cupertino"
+  employer         : "Apple Foundation Models"
   uri              : # URL
   email            : "tyu@cs.cornell.edu" 
 
